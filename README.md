@@ -7,7 +7,7 @@ I build, break, simulate, and redesign systems both digital and physical.
 
 # What I’m Actually Interested In
 
-I’m obsessed with **how intelligence, security, and trust emerge in systems** —
+I’m obsessed with **how intelligence, security, and trust emerge in systems**:
 whether that system is a robot, a network, or a decentralized protocol.
 
 ---
