@@ -46,12 +46,21 @@ whether that system is a robot, a network, or a decentralized protocol.
 - JavaScript / TypeScript
 - Python
 - Solidity
+- C++
+- C
+- Java
+- Arduino C
 
 **Frameworks & Platforms**
 - React.js, Next.js
 - Node.js, Express
 - Tailwind CSS
 - Linux, Git
+- ROS 2
+- OWASP ZAP
+- Burp Suite (Community)
+- Wireshark
+- Metasploit (learning environment)
 
 **Core Concepts**
 - Distributed systems
@@ -64,7 +73,7 @@ whether that system is a robot, a network, or a decentralized protocol.
 # Projects & Experiments
 - **SmartHire** — Secure freelancing with Web3 escrow
 - **Robot Behavior Simulators** — Visual RL debugging
-- Security & protocol experiments (ongoing)
+- **Security & protocol experiments (ongoing)**
 
 *(I build in public. Expect unfinished but ambitious work.)*
 
