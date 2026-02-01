@@ -71,8 +71,8 @@ whether that system is a robot, a network, or a decentralized protocol.
 ---
 
 # Projects & Experiments
-- **SmartHire** — Secure freelancing with Web3 escrow
-- **Robot Behavior Simulators** — Visual RL debugging
+- **SmartHire** - Secure freelancing with Web3 escrow
+- **Robot Behavior Simulators** - Visual RL debugging
 - **Security & protocol experiments (ongoing)**
 
 *(I build in public. Expect unfinished but ambitious work.)*
