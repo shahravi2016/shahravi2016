@@ -1,97 +1,87 @@
-# 👋 Hi, I'm Ravi Shah
+# Hi, I'm Ravi Shah
 
-Polymath | AI × Robotics | CyberSecurity | Blockchain  
-I build, break, simulate, and redesign systems both digital and physical.
-
----
-
-# What I’m Actually Interested In
-
-I’m obsessed with **how intelligence, security, and trust emerge in systems**:
-whether that system is a robot, a network, or a decentralized protocol.
+AI Developer focused on building systems in robotics, simulation, and intelligent platforms.
 
 ---
 
-# Artificial Intelligence & Robotics
-- Robot behavior modeling & decision systems
-- Reinforcement learning (policy → action → consequence)
-- Simulation-first development (debug before reality breaks)
-- Human–machine interaction & autonomy
+## Work Focus
+
+* AI Systems & Applied Machine Learning
+* Simulation & Decision Systems
+* Full-stack Development for Intelligent Applications
 
 ---
 
-# Cybersecurity & System Defense
-- Threat modeling & attack surface analysis
-- Authentication flows, OAuth, session security
-- Security thinking for AI systems & automation
-- Adversarial threat modeling & system failure analysis
+## Selected Projects
 
-> I don’t trust systems until I try to break them.
+* **SmartHire** -
+SmartHire solves the problem of trust in freelancing.
+Freelancers worry about not getting paid, and clients worry about getting poor work.
 
----
+So SmartHire creates a system where both agree on a contract with milestones.
+The client locks the payment in escrow before work starts.
+The freelancer completes the work step by step.
+Payment is released only after each milestone is approved.
 
-# Blockchain & Decentralized Systems
-- Smart contracts & escrow logic
-- Hybrid Web2 + Web3 architectures
-- Trust minimization & protocol design
-- Decentralized execution concepts
+Everything is transparent and secure using blockchain.
+This makes freelancing safer, faster, and more reliable for both sides.
 
-> Code should replace blind trust not add more of it.
 
----
+* **AI Market Simulator** - 
+Financial markets have hidden anomalies and potential manipulation.
+But detecting them manually is difficult due to large data volume and lack of labeled datasets.
 
-# Tools I Actually Use
+Built an AI system using unsupervised learning (Isolation Forest) that analyzes price, volume, volatility, and market deviation.
+Combined with contextual signals like news to detect suspicious activity.
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- Solidity
-- C++
-- C
-- Java
-- Arduino C
+A real-time anomaly detection platform that highlights unusual market behavior, assigns risk scores, 
+and provides explainable insights for potential manipulation.
 
-**Frameworks & Platforms**
-- React.js, Next.js
-- Node.js, Express
-- Tailwind CSS
-- Linux, Git
-- ROS 2
-- OWASP ZAP
-- Burp Suite (Community)
-- Wireshark
-- Metasploit (learning environment)
 
-**Core Concepts**
-- Distributed systems
-- Secure-by-design architecture
-- AI-assisted simulations
-- Systems thinking
+* **Robot Behavior Trainer** - 
+Robotic decision systems are often black-box and hard to interpret, making it difficult to understand how an AI agent learns and makes decisions.
+
+Developed a reinforcement learning (Q-learning) simulator where a robot learns navigation through trial and error, with an explainable layer that visualizes Q-values and decision reasoning.
+
+An interactive AI simulation that demonstrates learning behavior, optimal decision-making, and transparent reasoning in real time.
 
 ---
 
-# Projects & Experiments
-- **SmartHire** - Secure freelancing with Web3 escrow
-- **Robot Behavior Simulators** - Visual RL debugging
-- **Security & protocol experiments (ongoing)**
+## Technical Stack
 
-*(I build in public. Expect unfinished but ambitious work.)*
-
----
-
-# Operating Philosophy
-> Intelligence without control is chaos.  
-> Security without understanding is theater.  
-> Decentralization without purpose is noise.
-
-I aim to build **systems that think, defend, and scale**.
+* Languages: JavaScript, Typescript, Python, Java
+* Frameworks: React, Next.js, Express, React Native
+* AI/ML: TensorFlow, PyTorch, FastAPI, LangChain, CrewAI
 
 ---
 
-# Connect
-> Email: **ravirshah0612@gmail.com**
+## Currently Working On
 
-<!---
-shahravi2016/shahravi2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* AI Scientific Discovery Engine -
+  Problem:
+    Scientific discovery is slow and limited by manual hypothesis generation, fragmented research,
+    and the inability to explore large solution spaces efficiently.
+  How am I solving it:
+    An autonomous AI system that continuously generates questions, builds and tests hypotheses using research and simulations, and iteratively refines results          through a self-improving loop with optional human intervention.
+    
+* AI Cyber Defense Intelligence System -
+  Problem:
+    Modern cyber attacks are complex, multi-step, and stealthy,
+    making it difficult for traditional systems to detect threats early or understand how an attacker
+    will move across a network.
+  How I am solving it:
+    Building an AI-driven system that combines behavioral anomaly detection with graph-based attack path analysis to identify suspicious activity and predict           potential attacker movement across systems in real time.
+  
+* Advancing simulation-based AI systems
+---
+
+## Background
+
+Diploma in Engineering (in progress)
+Focused on AI systems, simulation, and applied development
+
+---
+
+## Contact
+
+* Mail: ravirshah0612@gmail.com
