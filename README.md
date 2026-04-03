@@ -14,65 +14,112 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ## Selected Projects
 
-* **SmartHire** -
-SmartHire solves the problem of trust in freelancing.
-Freelancers worry about not getting paid, and clients worry about getting poor work.
+* **SmartHire**
 
-So SmartHire creates a system where both agree on a contract with milestones.
-The client locks the payment in escrow before work starts.
-The freelancer completes the work step by step.
-Payment is released only after each milestone is approved.
+  * SmartHire solves the problem of trust in freelancing.
 
-Everything is transparent and secure using blockchain.
-This makes freelancing safer, faster, and more reliable for both sides.
+  * Freelancers worry about not getting paid, and clients worry about getting poor work.
 
+  * **Solution Approach:**
 
-* **AI Market Simulator** - 
-Financial markets have hidden anomalies and potential manipulation.
-But detecting them manually is difficult due to large data volume and lack of labeled datasets.
+    * Creates a system where both parties agree on a contract with milestones
+    * Client locks payment in escrow before work starts
+    * Freelancer completes work step-by-step
+    * Payment is released only after each milestone is approved
 
-Built an AI system using unsupervised learning (Isolation Forest) that analyzes price, volume, volatility, and market deviation.
-Combined with contextual signals like news to detect suspicious activity.
+  * Everything is transparent and secure using blockchain
 
-A real-time anomaly detection platform that highlights unusual market behavior, assigns risk scores, 
-and provides explainable insights for potential manipulation.
+  * Makes freelancing safer, faster, and more reliable for both sides
 
+---
 
-* **Robot Behavior Trainer** - 
-Robotic decision systems are often black-box and hard to interpret, making it difficult to understand how an AI agent learns and makes decisions.
+* **AI Market Simulator**
 
-Developed a reinforcement learning (Q-learning) simulator where a robot learns navigation through trial and error, with an explainable layer that visualizes Q-values and decision reasoning.
+  * Financial markets have hidden anomalies and potential manipulation
 
-An interactive AI simulation that demonstrates learning behavior, optimal decision-making, and transparent reasoning in real time.
+  * Detecting them manually is difficult due to large data volume and lack of labeled datasets
+
+  * **System Design:**
+
+    * Uses unsupervised learning (**Isolation Forest**)
+    * Analyzes:
+
+      * Price
+      * Volume
+      * Volatility
+      * Market deviation
+    * Incorporates contextual signals like news
+
+  * **Output:**
+
+    * Real-time anomaly detection
+    * Highlights unusual market behavior
+    * Assigns risk scores
+    * Provides explainable insights
+
+---
+
+* **Robot Behavior Trainer**
+
+  * Robotic decision systems are often black-box and hard to interpret
+
+  * **Solution:**
+
+    * Reinforcement learning (**Q-learning**) simulator
+    * Robot learns navigation through trial and error
+
+  * **Explainability Layer:**
+
+    * Visualizes Q-values
+    * Shows decision reasoning
+    * Displays learning behavior in real time
 
 ---
 
 ## Technical Stack
 
-* Languages: JavaScript, Typescript, Python, Java
-* Frameworks: React, Next.js, Express, React Native
-* AI/ML: TensorFlow, PyTorch, FastAPI, LangChain, CrewAI
+* **Languages:** JavaScript, TypeScript, Python, Java
+* **Frameworks:** React, Next.js, Express, React Native
+* **AI/ML:** TensorFlow, PyTorch, FastAPI, LangChain, CrewAI
 
 ---
 
 ## Currently Working On
 
-* AI Scientific Discovery Engine -
-  Problem:
-    Scientific discovery is slow and limited by manual hypothesis generation, fragmented research,
-    and the inability to explore large solution spaces efficiently.
-  How am I solving it:
-    An autonomous AI system that continuously generates questions, builds and tests hypotheses using research and simulations, and iteratively refines results          through a self-improving loop with optional human intervention.
-    
-* AI Cyber Defense Intelligence System -
-  Problem:
-    Modern cyber attacks are complex, multi-step, and stealthy,
-    making it difficult for traditional systems to detect threats early or understand how an attacker
-    will move across a network.
-  How I am solving it:
-    Building an AI-driven system that combines behavioral anomaly detection with graph-based attack path analysis to identify suspicious activity and predict           potential attacker movement across systems in real time.
-  
+* **AI Scientific Discovery Engine**
+
+  * **Problem:**
+
+    * Scientific discovery is slow due to manual hypothesis generation
+    * Fragmented research and limited exploration of solution spaces
+
+  * **Approach:**
+
+    * Autonomous AI system
+    * Generates questions
+    * Builds and tests hypotheses using research and simulations
+    * Iteratively refines results through a self-improving loop
+    * Supports optional human intervention
+
+---
+
+* **AI Cyber Defense Intelligence System**
+
+  * **Problem:**
+
+    * Cyber attacks are complex, multi-step, and stealthy
+    * Traditional systems struggle to detect threats early
+
+  * **Approach:**
+
+    * AI-driven behavioral anomaly detection
+    * Graph-based attack path analysis
+    * Predicts attacker movement across systems in real time
+
+---
+
 * Advancing simulation-based AI systems
+
 ---
 
 ## Background
@@ -84,4 +131,4 @@ Focused on AI systems, simulation, and applied development
 
 ## Contact
 
-* Mail: ravirshah0612@gmail.com
+* Mail: [ravirshah0612@gmail.com](mailto:ravirshah0612@gmail.com)
