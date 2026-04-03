@@ -12,7 +12,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ---
 
-## Selected Projects
+## Projects
 
 * **SmartHire**
 
