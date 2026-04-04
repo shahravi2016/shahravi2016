@@ -16,7 +16,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 * **SmartHire**:
   *Links:
-  >Platform: https://smarthire-freelance.vercel.app/
+  >Platform: https://smarthire-freelance.vercel.app/, 
   >Github: https://github.com/decenteratlized-freelancing-platform
   
   * SmartHire solves the problem of trust in freelancing.
