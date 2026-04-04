@@ -14,7 +14,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ## Projects
 
-* **SmartHire**:
+* **SmartHire**: Blockchain-based Freelancing Platform
   
   >Platform: https://smarthire-freelance.vercel.app/ | 
   >Github: https://github.com/decenteratlized-freelancing-platform
@@ -35,6 +35,8 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 ---
 
 * **Market Sentinel AI: Detects the manipulation or anomaly in the market**
+  
+  >Github: https://github.com/shahravi2016/MarketSentinel_AI
 
   * Financial markets have hidden anomalies and potential manipulation
   * Detecting them manually is difficult due to large data volume and lack of labeled datasets
@@ -59,7 +61,9 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ---
 
-* **Robot Behavior Trainer**
+* **RoboMind-AI**: Robot Behavior Trainer
+  
+  >Github: https://github.com/shahravi2016/RoboMind-AI
 
   * Robotic decision systems are often black-box and hard to interpret
 
