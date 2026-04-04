@@ -16,11 +16,11 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 * **SmartHire**: Blockchain-based Freelancing Platform
   
-  >Platform: https://smarthire-freelance.vercel.app/ | 
-  >Github: https://github.com/decenteratlized-freelancing-platform
-  
-  * SmartHire solves the problem of trust in freelancing.
-  * Freelancers worry about not getting paid, and clients worry about getting poor work.
+  🔗 Platform: https://smarthire-freelance.vercel.app/
+  🔗 GitHub: https://github.com/decenteratlized-freelancing-platform
+
+     *SmartHire solves the problem of trust in freelancing
+     *Freelancers worry about not getting paid, and clients worry about getting poor work
 
   * **Solution Approach:**
 
