@@ -14,10 +14,12 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ## Projects
 
-* **SmartHire**
-
+* **SmartHire**:
+  *Links:
+  >Platform: https://smarthire-freelance.vercel.app/
+  >Github: https://github.com/decenteratlized-freelancing-platform
+  
   * SmartHire solves the problem of trust in freelancing.
-
   * Freelancers worry about not getting paid, and clients worry about getting poor work.
 
   * **Solution Approach:**
@@ -28,22 +30,20 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
     * Payment is released only after each milestone is approved
 
   * Everything is transparent and secure using blockchain
-
   * Makes freelancing safer, faster, and more reliable for both sides
 
 ---
 
-* **AI Market Simulator**
+* **Market Sentinel AI: Detects the manipulation or anomaly in the market**
 
   * Financial markets have hidden anomalies and potential manipulation
-
   * Detecting them manually is difficult due to large data volume and lack of labeled datasets
 
   * **System Design:**
 
     * Uses unsupervised learning (**Isolation Forest**)
+      
     * Analyzes:
-
       * Price
       * Volume
       * Volatility
