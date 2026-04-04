@@ -19,8 +19,8 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
   🔗 Platform: https://smarthire-freelance.vercel.app/  |  
   🔗 GitHub: https://github.com/decenteratlized-freelancing-platform
 
-     SmartHire solves the problem of trust in freelancing
-     Freelancers worry about not getting paid, and clients worry about getting poor work
+     * SmartHire solves the problem of trust in freelancing
+     * Freelancers worry about not getting paid, and clients worry about getting poor work
 
   * **Solution Approach:**
 
