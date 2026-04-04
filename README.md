@@ -61,7 +61,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ---
 
-* **RoboMind-AI**: Robot Behavior Trainer
+* **RoboMind-AI**: Robot Navigation Simulator
   
   >🔗 Github: https://github.com/shahravi2016/RoboMind-AI
 
