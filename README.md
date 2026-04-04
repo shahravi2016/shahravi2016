@@ -1,4 +1,4 @@
-# Hi, I'm Ravi Shah
+# Hi, I'm Ravi Shah 👋
 
 AI Developer focused on building systems in robotics, simulation, and intelligent platforms.
 
