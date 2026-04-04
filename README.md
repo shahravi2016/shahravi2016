@@ -36,7 +36,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 * **Market Sentinel AI: Detects the manipulation or anomaly in the market**
   
-  >Github: https://github.com/shahravi2016/MarketSentinel_AI
+  >🔗 Github: https://github.com/shahravi2016/MarketSentinel_AI
 
   * Financial markets have hidden anomalies and potential manipulation
   * Detecting them manually is difficult due to large data volume and lack of labeled datasets
@@ -63,7 +63,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 * **RoboMind-AI**: Robot Behavior Trainer
   
-  >Github: https://github.com/shahravi2016/RoboMind-AI
+  >🔗 Github: https://github.com/shahravi2016/RoboMind-AI
 
   * Robotic decision systems are often black-box and hard to interpret
 
