@@ -128,7 +128,7 @@ AI Developer focused on building systems in robotics, simulation, and intelligen
 
 ## Background
 
-Diploma in Engineering (in progress)
+Diploma in Computer Engineering
 Focused on AI systems, simulation, and applied development
 
 ---
